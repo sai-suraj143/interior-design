@@ -1,0 +1,105 @@
+.container1 {
+  height: 120vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#box1 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/side-view-man-working-project_23-2149721877.jpg?t=st=1738414283~exp=1738417883~hmac=d7aad6d0112dddd84372887194224409017f65660680b815603a5c4d1cfeb59c&w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box2 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/full-shot-woman-sitting-couch_23-2149729041.jpg?t=st=1738414309~exp=1738417909~hmac=a8cc89fd0ca4baf42c0275f8c6a1c7cef9952f5bc0750a498041c05b3a779f3d&w=360);
+  background-size: cover;
+  background-position: center;
+}
+#box3 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/beautiful-lady-sitting-table-elegant-apartment_144627-77801.jpg?t=st=1738414361~exp=1738417961~hmac=a82a6966798b2f6e82706a856cad1d99009456d122b9433144813da55bc977e8&w=360);
+  background-size: cover;
+  background-position: center;
+}
+#box4 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-styled-entryway_23-2150695915.jpg?t=st=1738414389~exp=1738417989~hmac=855ef48fc5d91c23203fadc5a3acf5524d76182ab4127acc17554a85a5ebd63b&w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box5 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-hotel-room-with-illuminated-pictures_1203-1485.jpg?t=st=1738414418~exp=1738418018~hmac=dd79bc3c93a07562133ab8a080497df5394b2827c44ae059e3773007f8c149ae&w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box6 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/premium-photo/building-space_664434-8929.jpg?w=360);
+  background-size: cover;
+  background-position: center;
+}
+#box7 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/hotel-interior_144627-27370.jpg?t=st=1738414466~exp=1738418066~hmac=2149c028b31b3a3f76d276880ffc36a01b17d002f68049312e6ef647d7d3c2c2&w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box8 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}

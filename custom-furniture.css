@@ -1,0 +1,105 @@
+.container1 {
+  height: 120vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#box1 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/blue-modern-home-table-furniture_1203-4938.jpg?t=st=1738414715~exp=1738418315~hmac=fc29b169360110231e29c972ef3533fea4094e255a278495095be47017c22a7e&w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box2 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.unsplash.com/photo-1604578762246-41134e37f9cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnVybml0dXJlJTIwZGVzaWdufGVufDB8fDB8fHww);
+  background-size: cover;
+  background-position: center;
+}
+#box3 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.unsplash.com/photo-1573659532403-260959eed48f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZ1cm5pdHVyZSUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}
+#box4 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.unsplash.com/photo-1618221639244-c1a8502c0eb9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZ1cm5pdHVyZSUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}
+#box5 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZ1cm5pdHVyZSUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}
+#box6 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://plus.unsplash.com/premium_photo-1682582241642-d16c69cc087c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZnVybml0dXJlJTIwZGVzaWdufGVufDB8fDB8fHww);
+  background-size: cover;
+  background-position: center;
+}
+#box7 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://plus.unsplash.com/premium_photo-1688125414593-391cf90f3103?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZnVybml0dXJlfGVufDB8fDB8fHww);
+  background-size: cover;
+  background-position: center;
+}
+#box8 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.unsplash.com/photo-1550226891-ef816aed4a98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}

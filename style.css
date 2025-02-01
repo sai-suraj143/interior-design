@@ -1,0 +1,344 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#home {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("Affordable-interior-decorator-tip-paint.jpeg");
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+#logo {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  margin: 10px 0px 0px 30px;
+  color: #fff;
+  position: relative;
+}
+ul li {
+  display: inline-block;
+  margin: 0px 20px 0px 20px;
+  padding: 0px 10px 0px 10px;
+}
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  position: relative;
+  padding: 5px;
+}
+
+ul li a::after {
+  content: "";
+  height: 3px;
+  width: 100%;
+  background-color: #84a98c;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 0;
+  transform: scale(0);
+  transition: transform 0.5s ease-out;
+}
+ul li a:hover::after {
+  transform: scale(0.9);
+  transition: transform ease-out 0.4s;
+  background-color: #84a98c;
+}
+#welcome-text {
+  position: absolute;
+  top: 250px;
+  left: 45px;
+  color: #fff;
+  font-size: large;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#learn-more {
+  position: absolute;
+  top: 350px;
+  left: 50px;
+}
+
+#learn-more a {
+  text-decoration: none;
+  color: #a1cca5;
+}
+#services {
+  height: 120vh;
+  width: 100vw;
+  background-image: linear-gradient(#000, #333);
+  margin-top: 0px;
+  position: relative;
+}
+#text {
+  font-family: cursive;
+  font-size: 45px;
+  color: lightpink;
+  text-align: center;
+  margin-top: 0px;
+  position: absolute;
+  top: 10px;
+  left: 280px;
+}
+.row1 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.row2 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.residential {
+  height: 250px;
+  width: min-content;
+  background-color: #fff;
+  margin: 80px 20px;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.7);
+  display: flex;
+  flex-direction: column;
+}
+.commercial {
+  height: 250px;
+  background-color: #fff;
+  width: min-content;
+  border-radius: 20px;
+  margin: 80px 20px;
+  padding: 10px;
+  box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.7);
+}
+.virtual {
+  height: 250px;
+  background-color: #fff;
+  width: min-content;
+  border-radius: 20px;
+  margin: 80px 20px;
+  padding: 10px;
+  box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.7);
+}
+.custom-furniture {
+  height: 250px;
+  background-color: #fff;
+  border-radius: 20px;
+  width: min-content;
+  padding: 10px;
+  box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.7);
+}
+.turnkey {
+  height: 250px;
+  background-color: #fff;
+  border-radius: 20px;
+  width: min-content;
+  padding: 10px;
+  box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.7);
+}
+.interior-styling {
+  height: 250px;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.7);
+  width: min-content;
+  padding: 10px;
+}
+
+#about {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#333, #000);
+  flex-direction: column;
+  color: lightcoral;
+}
+
+#matter {
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+  margin-left: 30px;
+  line-height: 30px;
+}
+/* Contact Us Section Styling */
+.contact-container {
+  background-image: linear-gradient(#333, #000, #333, #000);
+
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.contact-content {
+  max-width: 800px;
+  margin: auto;
+  background: linear-gradient(lightcoral, pink, lightpink, lightcoral);
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2 {
+  color: #333;
+}
+
+p {
+  color: #666;
+  line-height: 1.6;
+}
+
+.contact-details p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.contact-form button {
+  background: #007bff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background 0.3s;
+}
+
+.contact-form button:hover {
+  background: #0056b3;
+}
+
+.social-media {
+  margin-top: 30px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  color: #007bff;
+  font-size: 24px;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .contact-content {
+    padding: 20px;
+  }
+  .contact-form button {
+    width: 100%;
+  }
+}
+
+#form {
+  background-color: #335139;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+footer {
+  background-color: #778da9;
+  width: 100vw;
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 0px;
+  color: #fff;
+  background-color: #000;
+}
+
+.footer-content {
+  text-align: center;
+  color: lightcoral;
+}
+
+.footer-content h3 {
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.footer-content p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: lightcoral;
+}
+
+.footer-content .socials {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.footer-content .socials li {
+  display: inline-block;
+}
+
+.footer-content .socials li a {
+  color: #fff;
+  font-size: 20px;
+  transition: color 0.3s ease;
+}
+
+.footer-content .socials li a:hover {
+  color: lightcoral;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer-bottom p {
+  font-size: 14px;
+  margin: 0;
+  color: lightcoral;
+}
+
+#footer p {
+  font-family: "Roboto", sans-serif;
+  font-size: medium;
+  margin: 10px 0;
+  color: lightcoral;
+}
+
+#footer a {
+  color: lightcoral;
+  text-decoration: none;
+  margin: 5px 0;
+}
+
+#footer a:hover {
+  color: #ff6f61;
+}
+#footer p,
+#footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#form:hover {
+  background-color: #8d99ae;
+}

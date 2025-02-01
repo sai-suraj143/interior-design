@@ -1,0 +1,105 @@
+.container1 {
+  height: 120vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#box1 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/room-with-computer_1048-4545.jpg?t=st=1738413636~exp=1738417236~hmac=a305dbb81718c161cfadf58c041de031295bc5822b1a85bac30aa982d2f53cfb&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box2 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/beautiful-dreamy-aesthetic-landscape_23-2151445733.jpg?t=st=1738413683~exp=1738417283~hmac=66207bc1b2d38bafe354007bd78c22ec52710a3e50b6b479f0ea5d1bd270f38e&w=740);
+  background-size: cover;
+  background-position: center;
+}
+#box3 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/neon-robot-vacuum-cleaner_23-2151349261.jpg?t=st=1738413722~exp=1738417322~hmac=00d78ce19da226319e5d6291ca56212a005aa70cc251be5039c704c545917bed&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box4 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/3d-rendering-isometric-house_23-2150728056.jpg?t=st=1738413756~exp=1738417356~hmac=2c0ba29baa720e5c75c07a7d2645de477461a77398e80100d2825095f77c27bb&w=740);
+  background-size: cover;
+  background-position: center;
+}
+#box5 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/premium-photo/living-room-interior-illustration-box_252025-200273.jpg?w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box6 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/neon-robot-vacuum-cleaner_23-2151349208.jpg?t=st=1738413890~exp=1738417490~hmac=371c55da3e2e5246b4ebea7b4a3c12c1c874c277f54e1b8115d544027f3f9aa9&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box7 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/color-year-interior-design-space-with-furniture-decor_23-2151397314.jpg?t=st=1738413952~exp=1738417552~hmac=2dd138c584dfd8c4bda9756260317d98a27b4e2ad2fe3900646f008759340bd0&w=360);
+  background-size: cover;
+  background-position: center;
+}
+#box8 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/3d-model-house-room_23-2150761104.jpg?t=st=1738413979~exp=1738417579~hmac=d8938fc367753c328431e64c9e02074f7a0465f4cc65214fc43a3a9d4875352a&w=740);
+  background-size: cover;
+  background-position: center;
+}

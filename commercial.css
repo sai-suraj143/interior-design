@@ -1,0 +1,105 @@
+.container1 {
+  height: 120vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+#row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#row2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#box1 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://plus.unsplash.com/premium_photo-1664304066233-80febd2729b2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}
+#box2 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://plus.unsplash.com/premium_photo-1684769161409-f6de69d3f274?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}
+#box3 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://plus.unsplash.com/premium_photo-1661874933205-969c5bfa3523?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-position: center;
+}
+#box4 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/premium-photo/hotel_664434-4715.jpg?w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box5 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/premium-photo/3d-rendering-beautiful-modern-hotel-office_752325-36555.jpg?w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box6 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/premium-photo/54413empty-kitchen-office_544308-2410.jpg?w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box7 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/man-women-table-library_23-2147678959.jpg?t=st=1738407681~exp=1738411281~hmac=a7d4c2eaf10cee8d60bc11dc1431def1b8a34597d59a31afbddc13a0e59b9f18&w=1060);
+  background-size: cover;
+  background-position: center;
+}
+#box8 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/premium-photo/interior-space-department-store_1112-8330.jpg?w=1060);
+  background-size: cover;
+  background-position: center;
+}
