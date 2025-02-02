@@ -9,11 +9,25 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin: 4%;
 }
 #row2 {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin: 4%;
+}
+#row3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 4%;
+}
+#row4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 4%;
 }
 #box1 {
   height: 280px;
@@ -102,4 +116,118 @@
   background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
   background-size: cover;
   background-position: center;
+}
+#box9 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box10 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box11 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box12 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box13 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box14 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box15 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+#box16 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.freepik.com/free-photo/modern-living-room-with-smart-home-technology_9975-33059.jpg?t=st=1738414404~exp=1738418004~hmac=0acd10e5b01f10b3b573df5ab202fa78053a216e67dc2a7888faa122d0c5f760&w=1380);
+  background-size: cover;
+  background-position: center;
+}
+
+@media screen and (max-width: 425px) {
+  #row1, #row2, #row3, #row4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20px 20px 20px 20px ;
+  }
+
+  #box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8,
+  #box9, #box10, #box11, #box12, #box13, #box14, #box15, #box16 {
+    width: 90%;
+    margin: 20px 20px 20px 20px ;
+    height: 250px;
+  }
+
+  button {
+    width: 80%;
+    margin: 10px auto;
+  }
+
+  h1 {
+    font-size: 24px;
+    padding: 10px;
+  }
 }

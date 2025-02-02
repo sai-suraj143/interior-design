@@ -103,3 +103,28 @@
   background-size: cover;
   background-position: center;
 }
+@media screen and (max-width: 425px) {
+  #row1, #row2, #row3, #row4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20px 20px 20px 20px ;
+  }
+
+  #box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8,
+  #box9, #box10, #box11, #box12, #box13, #box14, #box15, #box16 {
+    width: 90%;
+    margin: 20px 20px 20px 20px ;
+    height: 250px;
+  }
+
+  button {
+    width: 80%;
+    margin: 10px auto;
+  }
+
+  h1 {
+    font-size: 24px;
+    padding: 10px;
+  }
+}

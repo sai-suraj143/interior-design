@@ -9,11 +9,25 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin: 4%;
 }
 #row2 {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin: 4%;
+}
+#row3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 4%;
+}
+#row4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 4%;
 }
 #box1 {
   height: 280px;
@@ -102,4 +116,116 @@
   background-image: url(https://img.freepik.com/premium-photo/interior-space-department-store_1112-8330.jpg?w=1060);
   background-size: cover;
   background-position: center;
+}
+#box9 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://5.imimg.com/data5/SELLER/Default/2024/5/417558927/NP/ZG/VM/45795223/office-interior-design.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#box10 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/2/2023/05/23163145/modern-office-interior-design-with-partition-plants.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#box11{
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://interiorjumbo.com/blog/wp-content/uploads/2018/07/Interior-Designs-Facebook.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#box12 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://lefreddo.com/wp-content/uploads/2022/04/office-interior-design-style.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#box13 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://img.staticmb.com/mbcontent/images/crop/uploads/2024/8/Use-Textures-Generously_0_1200.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#box14{
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://www.hindustantimes.com/ht-img/img/2023/04/18/1600x900/pexels-pixabay-37347_1681805427960_1681805438633.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#box15 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5gWHlMZqp-cuLUUwVVxPStwrRClo_GqeYw&s);
+  background-size: cover;
+  background-position: center;
+}
+#box16 {
+  height: 280px;
+  width: 280px;
+  background-color: #e9ecef;
+  border: 3px transparent black;
+  border-radius: 25px;
+  box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.7);
+  background-image: url(https://www.magicspacedesigns.com/wp-content/uploads/2021/04/Office-Interior-Designers-in-Ahmedabad.jpg);
+  background-size: cover;
+  background-position: center;
+}@media screen and (max-width: 425px) {
+  #row1, #row2, #row3, #row4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20px 20px 20px 20px ;
+  }
+
+  #box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8,
+  #box9, #box10, #box11, #box12, #box13, #box14, #box15, #box16 {
+    width: 90%;
+    margin: 20px 20px 20px 20px ;
+    height: 250px;
+  }
+
+  button {
+    width: 80%;
+    margin: 10px auto;
+  }
+
+  h1 {
+    font-size: 24px;
+    padding: 10px;
+  }
 }
